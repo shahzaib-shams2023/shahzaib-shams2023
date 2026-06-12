@@ -108,15 +108,6 @@ const shahzaib = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaib-shams2023&bg_color=0D1117&color=FF6B9D&line=C44BE4&point=6C63FF&area=true&hide_border=true" width="100%"/>
 
----
-
-## `✦ Trophies`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shahzaib-shams2023&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
