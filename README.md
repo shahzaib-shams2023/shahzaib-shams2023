@@ -653,7 +653,7 @@ FUN_FACTS:
 
 <br><br>
 
-> 📌 **Replace all `[YOUR_*]` placeholders above with your real links.**
+
 
 <br>
 
