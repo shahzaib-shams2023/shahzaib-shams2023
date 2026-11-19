@@ -146,13 +146,12 @@ I care about software that solves a real problem for a real person. Clean, reada
 <br>
 
 <a href="https://github.com/shahzaib-shams2023"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-shahzaib--shams2023-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:[YOUR_EMAIL_HERE]"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://[YOUR_PORTFOLIO_URL]"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://twitter.com/[YOUR_TWITTER_HANDLE]"><img alt="X / Twitter" src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shahzaib-shams-9150b7269?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shahzaib.jokhio16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://shzj.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br><br>
 
-<img src="./assets/footer.svg" alt="Turning tea into software since day one. Made in Pakistan." width="100%"/>
+<!-- <img src="./assets/footer.svg" alt="Turning tea into software since day one. Made in Pakistan." width="100%"/> -->
 
 </div>
