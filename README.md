@@ -1,714 +1,158 @@
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                    SHAHZAIB — GITHUB PROFILE README                  -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:7F5AF0,50:FF6B9D,100:00D4FF&text=SHAHZAIB&fontColor=ffffff&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%2B%20Cloud%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descSize=20&descAlignY=56&animation=fadeIn&reversal=false"/>
+<img src="./assets/hero.svg" alt="Shahzaib, Full Stack Engineer focused on AI and cloud, based in Pakistan" width="100%"/>
 
-</div>
-
-<!-- ─────────────────── TYPING INTRO ─────────────────── -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&center=true&vCenter=true&width=750&color=FF6B9D&lines=%E2%9A%94+Full+Stack+Engineer;%F0%9F%9A%80+Building+Scalable+AI+Products;%F0%9F%A4%96+Turning+Ideas+Into+Software;%E2%98%81+Cloud+Native+Architect;%F0%9F%8C%90+Web+%2B+Mobile+%2B+AI+%2B+DevOps;%E2%98%95+Powered+By+Tea+%E2%80%94+Always"/>
-
-</div>
-
-<!-- ─────────────────── VISITOR + BADGES ─────────────────── -->
-
-<div align="center">
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=shahzaib-shams2023&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/shahzaib-shams2023?style=for-the-badge&color=FF6B9D&labelColor=0d1117&label=FOLLOWERS"/>
-&nbsp;
-<img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20Years-00D4FF?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-Building-7F5AF0?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=white"/>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=shahzaib-shams2023&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS&labelColor=0b0d12"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/shahzaib-shams2023?style=flat-square&color=F472B6&labelColor=0b0d12&label=FOLLOWERS"/>
+<img alt="5+ years of experience" src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-22D3EE?style=flat-square&labelColor=0b0d12"/>
+<img alt="Freelancing since 2022" src="https://img.shields.io/badge/FREELANCE-SINCE%202022-8B5CF6?style=flat-square&labelColor=0b0d12"/>
 
 </div>
 
 <br>
 
----
-
-<!-- ─────────────────── SYSTEM STATUS ─────────────────── -->
-
-# 「 SYSTEM STATUS 」
-
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                     DEVELOPER: SHAHZAIB                      ║
-╚══════════════════════════════════════════════════════════════╝
-
-Class          : Full Stack Engineer  [S+ Rank]
-Location       : Pakistan 🇵🇰
-Experience     : 5+ Years
-Freelance      : Active Since 2022
-
-Specializations:
-  ├─ Web Applications       [React · Next.js · Laravel · Django]
-  ├─ AI / ML Products       [OpenAI · LangChain · Python]
-  ├─ Cloud Infrastructure   [AWS · Docker · Kubernetes]
-  ├─ SaaS Platforms         [Full-cycle product ownership]
-  └─ Mobile Development     [Flutter · React Native]
-
-Current Mission:
-  "Build software used by millions"
-
-Power Source   : Unlimited Tea ☕ — No exceptions.
-
-Uptime         : 5 years, 0 reboots.
-```
-
----
-
-<!-- ─────────────────── ABOUT ME ─────────────────── -->
-
-# 「 ABOUT ME 」
-
-<div align="center">
+<img src="./assets/sec-about.svg" alt="01 About" width="100%"/>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-### Hello, I'm Shahzaib 👋
+<br>
 
-I'm a **Full Stack Engineer** from Pakistan 🇵🇰 who started programming in 2021 and never stopped. I build products end-to-end — from pixel-perfect UIs to scalable backends, cloud infrastructure, and AI-powered systems.
+I'm a **Full Stack Engineer** from Pakistan 🇵🇰. I started programming in 2021 and went freelance in 2022. I build whole products: the interface, the backend, the cloud underneath, and the AI features on top.
 
-Over 5 years I've grown from writing my first lines of JavaScript to shipping full SaaS platforms, automation engines, and AI integrations. Every project I touch is built with the goal of **actually solving real problems for real people**.
+I care about software that solves a real problem for a real person. Clean, readable, no drama in production.
 
-I'm obsessed with:
-- 🧠 **AI Engineering** — building intelligent systems that make work disappear
-- ☁️ **Cloud Architecture** — designing infra that scales without drama
-- ⚡ **Developer Experience** — code that future-me won't hate
-- 🌍 **Open Source** — giving back to the ecosystem that raised me
-- 🎌 **Anime** — because the best stories fuel the best code
+**What pulls me in**
 
-When I'm not shipping features, I'm studying system design, experimenting with Web3, and drinking unreasonable amounts of tea.
+- 🧠 **AI engineering** — systems that make repetitive work disappear
+- ☁️ **Cloud architecture** — infrastructure that scales quietly
+- ⚡ **Developer experience** — code future-me won't hate
+- 🎌 **Anime** and ☕ **tea** — fuel for both
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="48%" align="center" valign="middle">
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" style="border-radius:8px"/>
+<img src="./assets/profile.svg" alt="Profile card: Full Stack Engineer from Pakistan, coding since 2021, freelancing since 2022" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="./assets/sec-stack.svg" alt="02 Tech Arsenal" width="100%"/>
+
+<table>
+<tr>
+<td width="20%" align="right"><b>Frontend</b></td>
+<td><img alt="React, Next.js, TypeScript, JavaScript, Tailwind, Vue, HTML, CSS" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vue,html,css"/></td>
+</tr>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td><img alt="Node.js, Express, Python, Django, PHP, Laravel, FastAPI" src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,fastapi"/></td>
+</tr>
+<tr>
+<td align="right"><b>Mobile</b></td>
+<td><img alt="Flutter, Kotlin, Swift, Dart" src="https://skillicons.dev/icons?i=flutter,kotlin,swift,dart"/></td>
+</tr>
+<tr>
+<td align="right"><b>Cloud &amp; DevOps</b></td>
+<td><img alt="AWS, GCP, Docker, Kubernetes, Nginx, Linux, Bash" src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,bash"/></td>
+</tr>
+<tr>
+<td align="right"><b>Data</b></td>
+<td><img alt="MySQL, PostgreSQL, MongoDB, Redis, Firebase, SQLite" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite"/></td>
+</tr>
+<tr>
+<td align="right"><b>AI / ML</b></td>
+<td><img alt="TensorFlow, PyTorch, OpenCV" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/></td>
+</tr>
+<tr>
+<td align="right"><b>Tools</b></td>
+<td><img alt="VS Code, Git, GitHub, Figma, Postman, Webpack" src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,webpack"/></td>
+</tr>
+</table>
+
+<br>
+
+<img src="./assets/sec-build.svg" alt="03 What I Build" width="100%"/>
+
+<table>
+<tr>
+<td width="25%"><img src="./assets/card-ai.svg" alt="AI Products: LLM features, agents, and automation pipelines" width="100%"/></td>
+<td width="25%"><img src="./assets/card-saas.svg" alt="SaaS Platforms: full-cycle ownership from first commit to production" width="100%"/></td>
+<td width="25%"><img src="./assets/card-cloud.svg" alt="Cloud Infrastructure: containerized deployments that scale" width="100%"/></td>
+<td width="25%"><img src="./assets/card-mobile.svg" alt="Mobile Apps: one codebase, both platforms" width="100%"/></td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>Public work lands on this profile as repositories go live.</sub>
+<a href="https://github.com/shahzaib-shams2023?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/BROWSE_REPOSITORIES-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=0b0d12"/></a>
+
+</div>
+
+<br>
+
+<img src="./assets/sec-analytics.svg" alt="04 GitHub Analytics" width="100%"/>
+
+<table>
+<tr>
+<td width="50%" align="center"><img alt="GitHub stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=shahzaib-shams2023&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b0d12&border_color=232838&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&border_radius=16"/></td>
+<td width="50%" align="center"><img alt="Most used languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-shams2023&layout=compact&langs_count=8&bg_color=0b0d12&border_color=232838&title_color=8B5CF6&text_color=c9d1d9&border_radius=16"/></td>
+</tr>
+</table>
+
+<div align="center">
+
+<img alt="Contribution streak" width="100%" src="https://streak-stats.demolab.com?user=shahzaib-shams2023&background=0b0d12&border=232838&stroke=232838&ring=8B5CF6&fire=F472B6&currStreakNum=e6e8ee&currStreakLabel=22D3EE&sideNums=e6e8ee&sideLabels=8a92a6&dates=8a92a6&border_radius=16"/>
+
+<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaib-shams2023&bg_color=0b0d12&color=8B5CF6&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&hide_title=true"/>
+
+</div>
+
+<br>
+
+<img src="./assets/sec-exploring.svg" alt="05 Currently Exploring" width="100%"/>
+
+<img src="./assets/exploring.svg" alt="Currently exploring: AI agent frameworks, system design, cloud architecture, Web3 and blockchain" width="100%"/>
+
+<br>
+
+<img src="./assets/sec-philosophy.svg" alt="06 Developer Philosophy" width="100%"/>
+
+<img src="./assets/principles.svg" alt="Six principles: build useful things, keep systems simple, automate the repeatable, ship fast, improve continuously, tea before code" width="100%"/>
+
+<br>
+
+<img src="./assets/sec-beyond.svg" alt="07 Beyond the Code" width="100%"/>
+
+<img src="./assets/beyond.svg" alt="Fun facts: four or more cups of tea a day, spaces over tabs, console.log first, Linux on servers" width="100%"/>
+
+<br>
+
+<img src="./assets/sec-connect.svg" alt="08 Connect" width="100%"/>
+
+<div align="center">
+
+<br>
+
+**Open to interesting projects, collaborations, and good conversations.**
+
+<br>
+
+<a href="https://github.com/shahzaib-shams2023"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-shahzaib--shams2023-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:[YOUR_EMAIL_HERE]"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://[YOUR_PORTFOLIO_URL]"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://twitter.com/[YOUR_TWITTER_HANDLE]"><img alt="X / Twitter" src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br><br>
 
-```typescript
-const shahzaib = {
-  role    : "Full Stack Engineer",
-  based   : "Pakistan 🇵🇰",
-  since   : 2021,
-
-  languages: [
-    "TypeScript", "JavaScript",
-    "Python", "PHP"
-  ],
-
-  learning: [
-    "System Design",
-    "Web3 / Blockchain",
-    "AI Agent Frameworks"
-  ],
-
-  hobbies : ["Coding","Anime","Tea","OSS"],
-
-  goal    : "Build software used by millions"
-}
-```
-
-</td>
-</tr>
-</table>
+<img src="./assets/footer.svg" alt="Turning tea into software since day one. Made in Pakistan." width="100%"/>
 
 </div>
-
----
-
-<!-- ─────────────────── TECH UNIVERSE ─────────────────── -->
-
-# 「 TECH UNIVERSE 」
-
-<div align="center">
-
-### 🖥️ Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vue,html,css"/>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,fastapi"/>
-
-### 📱 Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,dart"/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,bash"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite"/>
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-### 🛠️ Tools & Editors
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,webpack"/>
-
-</div>
-
-<br>
-
-<!-- Shields.io tech badges for version context -->
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-11+-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Latest-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Active-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-<!-- ─────────────────── CURRENT QUESTS ─────────────────── -->
-
-# 「 CURRENT QUESTS 」
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```text
- ACTIVE LEARNING MISSIONS
- ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
- AI Engineering
- ▰▰▰▰▰▰▰▰▰▱  92%  🔥 MASTERING
-
- System Design
- ▰▰▰▰▰▰▰▰▱▱  82%  ⚡ ADVANCING
-
- Cloud Architecture
- ▰▰▰▰▰▰▰▱▱▱  74%  ☁️ LEVELING
-
- Web3 / Blockchain
- ▰▰▰▰▰▰▱▱▱▱  62%  🌐 EXPLORING
-
- AI Agent Frameworks
- ▰▰▰▰▰▰▰▰▱▱  80%  🤖 BUILDING
-```
-
-</td>
-<td width="50%" valign="top">
-
-```text
- 2026 FOCUS TARGETS
- ━━━━━━━━━━━━━━━━━━━━━━━━━━
-
- ✅  Ship AI SaaS Products
- ✅  Deepen Cloud Architecture
- 🔄  Master LangChain / Agent SDKs
- 🔄  Contribute to Major OSS Projects
- 📋  Build Web3 dApp Portfolio
- 📋  Publish Technical Articles
- 📋  Reach 100 GitHub Stars Combined
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ─────────────────── BATTLE STATS ─────────────────── -->
-
-# 「 BATTLE STATS 」
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaib-shams2023&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B9D&icon_color=7F5AF0&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-shams2023&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&langs_count=8"/>
-
-</div>
-
----
-
-<!-- ─────────────────── STREAK RECORD ─────────────────── -->
-
-# 「 STREAK RECORD 」
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shahzaib-shams2023&theme=radical&hide_border=true&background=0d1117&fire=FF6B9D&ring=7F5AF0&currStreakLabel=00D4FF&sideLabels=ffffff&dates=aaaaaa"/>
-
-</div>
-
----
-
-<!-- ─────────────────── CONTRIBUTION MATRIX ─────────────────── -->
-
-# 「 CONTRIBUTION MATRIX 」
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaib-shams2023&bg_color=0d1117&color=ff6b9d&line=7f5af0&point=00d4ff&area=true&area_color=7f5af020&hide_border=true&custom_title=Shahzaib%27s%20Activity%20Graph"/>
-
-</div>
-
----
-
-<!-- ─────────────────── TROPHIES ─────────────────── -->
-
-# 「 TROPHY CASE 」
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahzaib-shams2023&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-
-</div>
-
----
-
-<!-- ─────────────────── FEATURED PROJECTS ─────────────────── -->
-
-# 「 FEATURED PROJECTS 」
-
-<div align="center">
-
-> Projects below represent my core areas of expertise. Replace placeholders with real repo links as they go public.
-
-</div>
-
-<table>
-<tr>
-
-<!-- PROJECT 1 -->
-<td width="50%" valign="top">
-
-<h3>🤖 AI Platform</h3>
-
-<p>Advanced AI-powered SaaS application enabling intelligent automation workflows. Built for scale, designed for real users.</p>
-
-**Stack:**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-
-**Features:**
-- AI-powered workflow automation
-- Real-time processing pipeline
-- Scalable cloud deployment
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🔗_Demo-FF6B9D?style=for-the-badge"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/📁_Repo-7F5AF0?style=for-the-badge"/>
-</a>
-
-<!-- Replace # with real links when available -->
-
-</td>
-
-<!-- PROJECT 2 -->
-<td width="50%" valign="top">
-
-<h3>☁️ Cloud Dashboard</h3>
-
-<p>Infrastructure monitoring and observability platform. Real-time metrics, alerts, and resource management at a glance.</p>
-
-**Stack:**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
-
-**Features:**
-- Live infrastructure metrics
-- Multi-cloud support
-- Alerting & anomaly detection
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🔗_Demo-FF6B9D?style=for-the-badge"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/📁_Repo-7F5AF0?style=for-the-badge"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-
-<!-- PROJECT 3 -->
-<td width="50%" valign="top">
-
-<h3>📱 Mobile App</h3>
-
-<p>Cross-platform mobile application delivering a native experience on both iOS and Android with a single codebase.</p>
-
-**Stack:**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
-
-**Features:**
-- iOS + Android from one codebase
-- Firebase real-time backend
-- Offline-first architecture
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🔗_Demo-FF6B9D?style=for-the-badge"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/📁_Repo-7F5AF0?style=for-the-badge"/>
-</a>
-
-</td>
-
-<!-- PROJECT 4 -->
-<td width="50%" valign="top">
-
-<h3>🚀 Automation Suite</h3>
-
-<p>Enterprise-grade workflow automation system. Schedule, orchestrate, and monitor complex jobs across distributed environments.</p>
-
-**Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-
-**Features:**
-- Distributed job scheduling
-- Container-native orchestration
-- Webhook + API integrations
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🔗_Demo-FF6B9D?style=for-the-badge"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/📁_Repo-7F5AF0?style=for-the-badge"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<details>
-<summary><b>📂 More Projects (Click to Expand)</b></summary>
-<br>
-
-> Add more repositories here as you build them. Use the same card format above or link directly to pinned repos.
-
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| `[Project Name]` | [Brief description] | `[Stack]` | [Demo](#) · [Repo](#) |
-| `[Project Name]` | [Brief description] | `[Stack]` | [Demo](#) · [Repo](#) |
-| `[Project Name]` | [Brief description] | `[Stack]` | [Demo](#) · [Repo](#) |
-
-</details>
-
----
-
-<!-- ─────────────────── JOURNEY TIMELINE ─────────────────── -->
-
-# 「 JOURNEY TIMELINE 」
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                    SHAHZAIB'S CODING ODYSSEY                     ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  2021 ━━━ [ ORIGIN ]  Picked up programming. First line of code. ║
-║           └─ HTML, CSS, JavaScript basics                        ║
-║                                                                  ║
-║  2022 ━━━ [ LAUNCH ]  First freelance project shipped.           ║
-║           └─ PHP · WordPress · Client work begins               ║
-║                                                                  ║
-║  2023 ━━━ [ ASCENT ]  Full Stack engineering unlocked.           ║
-║           └─ React · Node.js · Laravel · PostgreSQL              ║
-║                                                                  ║
-║  2024 ━━━ [ CLOUD ]   Cloud & DevOps tier reached.               ║
-║           └─ AWS · Docker · Kubernetes · CI/CD pipelines         ║
-║                                                                  ║
-║  2025 ━━━ [ NEURAL ]  AI Engineering specialization begins.      ║
-║           └─ OpenAI · LangChain · AI Agents · ML pipelines       ║
-║                                                                  ║
-║  2026 ━━━ [ BUILDER ] Shipping products. Building the future.    ║
-║           └─ SaaS · AI Products · Open Source · Web3             ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- ─────────────────── ACHIEVEMENTS ─────────────────── -->
-
-# 「 ACHIEVEMENTS UNLOCKED 」
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**🏆**
-**Full Stack**
-**Engineer**
-Mastered end-to-end product development across web, mobile, and cloud.
-
-</td>
-<td align="center" width="20%">
-
-**⚡**
-**AI Builder**
-Building real AI products with LLMs, agents, and ML pipelines since 2025.
-
-</td>
-<td align="center" width="20%">
-
-**☁️**
-**Cloud Native**
-Production deployments on AWS with Docker & Kubernetes orchestration.
-
-</td>
-<td align="center" width="20%">
-
-**🌐**
-**Open Source**
-Active contributor to the open-source community and public repositories.
-
-</td>
-<td align="center" width="20%">
-
-**🚀**
-**Freelancer**
-Shipped real client projects generating real business value since 2022.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Achievement progress bars -->
-
-```text
- SKILL MASTERY RECORD
- ════════════════════════════════════════════
-
- Full Stack Development    ████████████████████ 95%
- AI / Machine Learning     ██████████████████░░ 90%
- Cloud & DevOps            █████████████████░░░ 85%
- System Design             ████████████████░░░░ 80%
- Mobile Development        ███████████████░░░░░ 75%
- Web3 / Blockchain         ████████████░░░░░░░░ 60%
-```
-
-</div>
-
----
-
-<!-- ─────────────────── CONTRIBUTION SNAKE ─────────────────── -->
-
-# 「 CONTRIBUTION SNAKE 」
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahzaib-shams2023/shahzaib-shams2023/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahzaib-shams2023/shahzaib-shams2023/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/shahzaib-shams2023/shahzaib-shams2023/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> 💡 **Setup:** Add a GitHub Actions workflow to auto-generate this snake. See [platane/snk](https://github.com/Platane/snk) for the 5-minute setup.
-
-</div>
-
----
-
-<!-- ─────────────────── DEVELOPER PHILOSOPHY ─────────────────── -->
-
-# 「 DEVELOPER PHILOSOPHY 」
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-> **"Build useful things."**
-> Not impressive things. Not clever things. *Useful* things.
-
-> **"Keep systems simple."**
-> Complexity is a debt you pay forever. Simplicity is an investment.
-
-> **"Automate repetitive work."**
-> If you do it twice, script it. If you script it twice, systemize it.
-
-</td>
-<td width="50%" valign="top">
-
-> **"Ship fast."**
-> A working product today beats a perfect product never.
-
-> **"Improve continuously."**
-> Code is never done. Refactor. Learn. Repeat.
-
-> **"Tea before code."**
-> This is non-negotiable. ☕
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ─────────────────── FUN FACTS ─────────────────── -->
-
-# 「 FUN FACTS 」
-
-<div align="center">
-
-```yaml
-FUN_FACTS:
-  - "Tea consumed per day: ≥ 4 cups (non-negotiable)"
-  - "First language learned: HTML (technically counts)"
-  - "Tabs vs Spaces: Spaces. Always."
-  - "Favorite debugging method: console.log() first, debugger second"
-  - "Anime watched while coding: more than I'll ever admit"
-  - "Time zones worked across: 5+"
-  - "Lines of code deleted to fix a bug: often more than written"
-  - "Biggest productivity booster: good music + tea"
-  - "OS of choice: Linux for servers, whatever works for dev"
-  - "Philosophy: Code like someone will read it. Document like they won't."
-```
-
-</div>
-
----
-
-<!-- ─────────────────── CONNECT ─────────────────── -->
-
-# 「 CONNECT 」
-
-<div align="center">
-
-<br>
-
-**Let's build something great together. I'm always open to interesting projects, collaborations, and conversations.**
-
-<br>
-
-<a href="https://github.com/shahzaib-shams2023">
-  <img src="https://img.shields.io/badge/GitHub-shahzaib--shams2023-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:[YOUR_EMAIL_HERE]">
-  <img src="https://img.shields.io/badge/Email-Contact-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://[YOUR_PORTFOLIO_URL]">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/[YOUR_TWITTER_HANDLE]">
-  <img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<br><br>
-
-
-
-<br>
-
-<details>
-<summary><b>📬 How to Reach Me (Click to Expand)</b></summary>
-<br>
-
-| Channel | Handle / Link | Best For |
-|---------|--------------|----------|
-| GitHub | [@shahzaib-shams2023](https://github.com/shahzaib-shams2023) | Code, PRs, issues |
-| LinkedIn | `[YOUR_LINKEDIN_URL]` | Professional networking |
-| Email | `[YOUR_EMAIL]` | Project inquiries, collaboration |
-| Portfolio | `[YOUR_PORTFOLIO_URL]` | Work showcase, case studies |
-| Twitter/X | `[YOUR_TWITTER_HANDLE]` | Tech discussions, updates |
-
-</details>
-
-</div>
-
----
-
-<!-- ─────────────────── DYNAMIC QUOTE ─────────────────── -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%"/>
-
-</div>
-
----
-
-<!-- ─────────────────── FOOTER ─────────────────── -->
-
-<div align="center">
-
-```text
-╔═══════════════════════════════════════════════════════╗
-║      「 Turning Tea Into Software Since Day One ☕ 」      ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://img.shields.io/badge/Built%20With-Passion%20%2B%20Tea-FF6B9D?style=for-the-badge&logo=heart&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Made%20In-Pakistan%20🇵🇰-00D4FF?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Powered%20By-Open%20Source-7F5AF0?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00D4FF,50:FF6B9D,100:7F5AF0&reversal=true"/>
-
-</div>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--       README crafted with ☕ by Shahzaib — github.com/shahzaib-shams2023 -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
